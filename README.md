@@ -2,15 +2,16 @@
 
 # Mateus Grandolfi Albuquerque
 
-### Information Technologies @ FIB · UPC  
-### Systems, networks, infrastructure, and practical software
+### Information Technologies @ FIB · UPC
+**Systems, networks, distributed services, and infrastructure-oriented software**
 
-I’m a student at **FIB-UPC** specializing in **Tecnologies de la Informació**, with interests in **systems administration, networks, distributed systems, security, and software that powers real infrastructure**.
+Student at **FIB-UPC**, specializing in **Tecnologies de la Informació**.  
+Interested in **systems administration, networking, distributed systems, security, and practical software for real-world infrastructure**.
 
 <br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mgrandolfi&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgrandolfi&theme=catppuccin_mocha&layout=compact&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mgrandolfi&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgrandolfi&theme=catppuccin_mocha&layout=compact&hide_border=true)
 
 </div>
 
@@ -18,31 +19,32 @@ I’m a student at **FIB-UPC** specializing in **Tecnologies de la Informació**
 
 ## About me
 
-I enjoy working on the practical side of computing: the layer where **software, systems, networks, and services meet**.
+I’m currently specializing in **Information Technologies** at **FIB-UPC**, a path oriented toward infrastructure, networks, distributed applications, services, and secure computing.
 
-My background at **FIB** has taken me through programming, operating systems, parallelism, networking, databases, and infrastructure-oriented subjects, and my current specialization is pushing that profile further toward **Information Technologies**.
+My background combines programming fundamentals with more applied technical areas such as **operating systems, Internet protocols, databases, parallelism, and systems administration**.
 
-I like building things that are **clean, understandable, and technically solid**, especially when they involve low-level reasoning, Linux environments, automation, or service-oriented architectures.
+I enjoy building software that is **clean, understandable, and technically solid**, especially in Linux-based environments and service-oriented contexts.
 
-## What I focus on
+## Focus areas
 
 - Systems and operating systems
 - Computer networks and Internet technologies
 - Distributed systems and services
 - Infrastructure and systems administration
 - Security and reliable computing
-- Practical software engineering with a strong technical foundation
+- Practical software engineering
 
-## Featured repositories
+## Featured work
 
-- **[PAR-FIB](https://github.com/mgrandolfi/PAR-FIB)** — parallelism labs and concurrency-oriented work
+- **[PAR-FIB](https://github.com/mgrandolfi/PAR-FIB)** — Parallelism labs and concurrency-oriented work
 - **[PI-FIB](https://github.com/mgrandolfi/PI-FIB)** — Internet protocols coursework
-- **[ASO-FIB](https://github.com/mgrandolfi/ASO-FIB)** — systems administration, shell tooling, and infrastructure-oriented practice
-- **[SOA-FIB](https://github.com/mgrandolfi/SOA-FIB)** — systems-focused development work
-- **[SO-FIB](https://github.com/mgrandolfi/SO-FIB)** — operating systems exercises and preparation
-- **[BD-FIB](https://github.com/mgrandolfi/BD-FIB)** — database practice and SQL work
-- **[EDA-FIB](https://github.com/mgrandolfi/EDA-FIB)** — data structures and algorithmic problem solving
-- **[PRO2-FIB](https://github.com/mgrandolfi/PRO2-FIB)** / **[PRO1-FIB](https://github.com/mgrandolfi/PRO1-FIB)** — programming foundations in C++
+- **[ASO-FIB](https://github.com/mgrandolfi/ASO-FIB)** — Systems administration, shell tooling, and infrastructure practice
+- **[SOA-FIB](https://github.com/mgrandolfi/SOA-FIB)** — Systems-focused development work
+- **[SO-FIB](https://github.com/mgrandolfi/SO-FIB)** — Operating systems exercises and preparation
+- **[BD-FIB](https://github.com/mgrandolfi/BD-FIB)** — Database practice and SQL work
+- **[EDA-FIB](https://github.com/mgrandolfi/EDA-FIB)** — Data structures and algorithmic problem solving
+- **[PRO2-FIB](https://github.com/mgrandolfi/PRO2-FIB)** / **[PRO1-FIB](https://github.com/mgrandolfi/PRO1-FIB)** — Programming foundations in C++
+- **[tribus](https://github.com/FardinA143/tribus)** — Collaborative web-oriented work pinned on my profile
 
 ## Stack
 
@@ -59,13 +61,15 @@ I like building things that are **clean, understandable, and technically solid**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=cmake&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-1C1C1C?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-### Areas I work in
+### Platforms & areas
 ![Networks](https://img.shields.io/badge/Networks-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-5E60CE?style=for-the-badge)
 ![Operating Systems](https://img.shields.io/badge/Operating_Systems-3A86FF?style=for-the-badge)
-![Security](https://img.shields.io/badge/Security-111827?style=for-the-badge&logo=shield&logoColor=white)
+![Security](https://img.shields.io/badge/Security-111827?style=for-the-badge)
 ![Databases](https://img.shields.io/badge/Databases-2A9D8F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Web Services](https://img.shields.io/badge/Web_Services-FF6B6B?style=for-the-badge)
 
@@ -73,19 +77,19 @@ I like building things that are **clean, understandable, and technically solid**
 
 ## Current direction
 
-I’m building a profile that reflects not only early coursework, but also a more defined path in **Information Technologies**: infrastructure, communication systems, distributed applications, and the software that supports them.
+I want this profile to reflect a progression from strong programming foundations into a more defined path in **Information Technologies**: infrastructure, communication systems, distributed applications, services, and dependable software.
 
-Over time, I want this GitHub to show both my academic progression and the technical areas I’m growing into more seriously.
+Over time, I’m aiming to make this GitHub a clearer representation of both my academic background and the technical areas I want to keep developing professionally.
 
 ## Connect
 
 - GitHub: [mgrandolfi](https://github.com/mgrandolfi)
-- LinkedIn: (https://www.linkedin.com/in/mgrandolfi/)
+- LinkedIn: [mgrandolfi](https://www.linkedin.com/in/mgrandolfi/)
 
 ---
 
 <div align="center">
 
-_Thanks for visiting my profile._
+<sub>Clean engineering, practical systems, and continuous learning.</sub>
 
 </div>
