@@ -6,7 +6,7 @@
 **Systems, networks, distributed services, and infrastructure-oriented software**
 
 Student at **FIB-UPC**, specializing in **Tecnologies de la Informació**.  
-Interested in **systems administration, networking, distributed systems, security, and practical software for real-world infrastructure**.
+Interested in **systems administration, networking, distributed systems, cybersecurity, and practical software for real-world infrastructure**.
 
 <br>
 
