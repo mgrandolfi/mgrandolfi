@@ -80,8 +80,7 @@ Over time, I want this GitHub to show both my academic progression and the techn
 ## Connect
 
 - GitHub: [mgrandolfi](https://github.com/mgrandolfi)
-- LinkedIn: [add your real LinkedIn here](https://linkedin.com/)
-- Portfolio / website: [add if you want one](https://github.com/mgrandolfi)
+- LinkedIn: (https://www.linkedin.com/in/mgrandolfi/)
 
 ---
 
