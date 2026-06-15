@@ -6,7 +6,7 @@
 
 Systems, networks, infrastructure, cybersecurity, and practical software.
 
-Student at **FIB-UPC**, specializing in **Tecnologies de la Informació**.  
+Student at **FIB-UPC**, specialized in **Tecnologies de la Informació**.  
 Interested in **systems administration, networking, distributed services, cybersecurity, and software that supports real-world infrastructure**.
 
 </div>
@@ -92,7 +92,6 @@ Over time, I’m aiming to make this GitHub a clearer representation of both my 
 
 ## Connect
 
-- GitHub: [mgrandolfi](https://github.com/mgrandolfi)
 - LinkedIn: [mgrandolfi](https://www.linkedin.com/in/mgrandolfi/)
 
 ---
