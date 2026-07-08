@@ -15,7 +15,7 @@ Focused on **cybersecurity, systems administration, networking, distributed syst
 
 ## About me
 
-I'm finishing my degree in **Information Technologies** at **FIB-UPC**, and I work on the layer where **software, services, systems, and networks come together**: building services, deploying them, securing them, and understanding what happens underneath.
+I'm finishing my degree in **Informatics Engineering** (specializing in **Information Technologies**) at **FIB-UPC**, and I work on the layer where **software, services, systems, and networks come together**: building services, deploying them, securing them, and understanding what happens underneath.
 
 I'm currently developing my **Bachelor's Thesis in cybersecurity**: a command-line interface for [HuntDown](https://gitlab.com/HuntDownUPC/HuntDown), a pentesting platform built at UPC — Go microservices, Docker-based attack execution, NATS messaging, and MongoDB.
 
