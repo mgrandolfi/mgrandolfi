@@ -6,7 +6,7 @@
 
 Cybersecurity, systems, networks, infrastructure, and practical software.
 
-Final-year Informatics Engineering student at **FIB-UPC**, specialized in **Tecnologies de la Informació**.  
+Final-year Informatics Engineering student at **FIB-UPC**, specialized in **Information Technology**.  
 Focused on **cybersecurity, systems administration, networking, distributed systems, and cloud/DevOps**.
 
 </div>
